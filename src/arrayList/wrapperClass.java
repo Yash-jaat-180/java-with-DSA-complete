@@ -54,7 +54,6 @@ public class wrapperClass {
         l.add(true);
         l.add(5.6);
         System.out.println(l);
-
-
+     System.out.println(l.size());
     }
 }
